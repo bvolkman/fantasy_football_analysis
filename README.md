@@ -1,5 +1,5 @@
 # fantasy_football_analysis
-Harvard CS50 Final Project - Created a fantasy football league and tracked points, players, rosters, and win/loss records
+Harvard CS50 Final Project - Created a fantasy football league with a database of NFL players and fantasy teams, then tracked points, players, rosters, and win/loss records.
 
 # Design Document
 
